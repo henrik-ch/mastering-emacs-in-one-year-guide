@@ -199,8 +199,6 @@ For example, switch focus between sub-windows in Emacs is not efficient by defau
 I suggest focusing on Emacs only in order to take full advantage of communities.
 
 For example, although Quora.com has lots of interesting stuff, *do not* read/subscribe/follow them unless it's related to Emacs.
-*** Google+
-[[https://plus.google.com/communities/114815898697665598016][Emacs community on Google+]] is the best. The average quality of discussion on Google+ is better.
 *** Reddit
 [[http://www.reddit.com/r/emacs/][Reddit]] is as good as Google+. The advantage of Reddit is that it's usually NOT blocked by the corporate firewall.
 *** GitHub
@@ -451,7 +449,7 @@ After consulting with me, he found that the [[https://github.com/tumashu/chinese
 
 So be practical. [[http://en.wikipedia.org/wiki/Richard_Stallman][Richard Stallman]] created a whole GNU ecosystem for you. Emacs is only one component. Why not take full advantage of the system?
 * Contact me
-Here is my [[https://twitter.com/#!/chen_bin][twitter]] and [[https://plus.google.com/110954683162859211810][google+]].
+Here is my [[https://twitter.com/#!/chen_bin][twitter]].
 
 My blog is at [[http://blog.binchen.org]].
 
